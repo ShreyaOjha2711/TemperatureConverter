@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Temp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=input
+comment3.target=boolean\ isValidNumber(java.lang.String)
+comment4.params=f\ t
+comment4.target=double\ convertedTemp(java.lang.String,\ java.lang.String)
+numComments=5
